@@ -1,8 +1,7 @@
 {
-  "semver": false,
   "lang": "pug",
-  "max_version": null,
-  "location": null,
-  "min_version": null,
-  "url": "https://github.com/zealot128/tree-sitter-pug"
+  "url": "https://github.com/zealot128/tree-sitter-pug",
+  "semver": false,
+  "parser_version": "13e9195370172c86a8b88184cc358b23b677cc46",
+  "location": null
 }
